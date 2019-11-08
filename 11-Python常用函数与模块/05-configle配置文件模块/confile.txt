@@ -1,0 +1,10 @@
+[DEFAULT]
+ServerAliveInterval = 45
+Compression = yes
+
+[bitbucket.org]
+User = hg
+
+[topsecret.server.com]
+Port = 52004
+ForwarXll = no

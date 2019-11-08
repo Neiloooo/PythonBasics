@@ -1,0 +1,5 @@
+
+a="55aa01009330040155555555ac0000e1030003ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff55555555011a090f0200020b0e05013c000302ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff01020000ffffffffffffffffffffffff00c8"
+# print a[16:48]
+# print a[144:184]
+print a[272:276]
